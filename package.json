@@ -1,0 +1,17 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "description": "playing around with d3 & grunt",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-contrib-watch": "^0.6.1",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt"
+  },
+  "author": "Jacob Hacker",
+  "license": "ISC"
+}
